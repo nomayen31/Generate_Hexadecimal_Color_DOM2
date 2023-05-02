@@ -1,0 +1,1 @@
+# Generate_Hexadecimal_Color_DOM2
